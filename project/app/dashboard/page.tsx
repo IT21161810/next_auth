@@ -48,7 +48,7 @@ export default function DashboardPage() {
               Welcome, {email}!
             </h2>
             <p className="text-gray-600">
-              You&apos;re successfully logged in to your dashboard.
+              You&apos;re logged in.
             </p>
           </div>
         </div>
